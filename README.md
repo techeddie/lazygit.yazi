@@ -6,17 +6,17 @@ Make sure [lazygit](https://github.com/jesseduffield/lazygit) is installed and i
 
 ### Using `ya pkg`
 ```
- ya pkg add Lil-Dank/lazygit
+ ya pkg add techeddie/lazygit
 ```
 
 ### Manual
 **Linux/macOS**
 ```
-git clone https://github.com/Lil-Dank/lazygit.yazi.git ~/.config/yazi/plugins/lazygit.yazi
+git clone https://github.com/techeddie/lazygit.yazi.git ~/.config/yazi/plugins/lazygit.yazi
 ```
 **Windows**
 ```
-git clone https://github.com/Lil-Dank/lazygit.yazi.git %AppData%\yazi\config\plugins\lazygit.yazi
+git clone https://github.com/techeddie/lazygit.yazi.git %AppData%\yazi\config\plugins\lazygit.yazi
 ```
 ## Configuration
 add this to your **keymap.toml** file
